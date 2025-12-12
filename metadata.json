@@ -1,0 +1,8 @@
+{
+  "name": "AuraShield",
+  "description": "AI-Powered Personal Safety Assistant using Gemini 3 Pro to analyze surroundings and assess risk.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
